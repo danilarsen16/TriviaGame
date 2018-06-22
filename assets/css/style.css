@@ -1,0 +1,50 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/7c/31/05/7c31052768c5ed41602ede538fb87dcb.jpg");
+    background-size: 130%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+
+
+#container {
+    width: 60%;
+    background: grey;
+    margin: 20px auto;
+    overflow: auto;
+    padding: 25px;
+    opacity: 0.5;
+}
+
+
+
+#h1{
+    text-align: center;
+    font-size: 23px;
+    margin-top: -50px;
+    padding-right: 125px;
+    font-family: Helvetica;
+}
+
+
+
+
+#h2{
+    text-align: center;
+    font-size: 50px;
+    border-bottom: #fff solid 1px;
+    margin-top: -70px;
+    height: 80px;
+    font-family: Helvetica;
+}
+
+
+
+
+#submit {
+    background-color: black;
+    color: #fff;
+    height: 35px;
+    margin-left: 350px;
+    font-size: 20px;
+}
